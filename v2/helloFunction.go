@@ -6,7 +6,7 @@ import (
 )
 
 func SayVersion() {
-	fmt.Println("hello from version 2.0.0")
+	fmt.Println("hello from version 2.0.1")
 }
 
 func SayTime() {
